@@ -2,7 +2,7 @@
 
 Ovaj repozitorijum sadrži praktičnu vježbu iz Cisco IOS konfiguracije switcha i rutera kreiranu u alatu **Cisco Packet Tracer**. Fokus vježbe je na optimizaciji CLI okruženja, implementaciji SSH udaljenog pristupa i osiguravanju portova kroz Port Security funkciju.
 
-## 🏗️ Mrežna Topologija
+## Mrežna Topologija
 
 ![Mrežna Topologija](topologija.png)
 
